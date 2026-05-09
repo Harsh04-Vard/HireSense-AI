@@ -66,3 +66,36 @@ Built using Python, Streamlit, NLP concepts, and rule-based AI scoring.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+```
+
+---
+
+## Project Structure
+
+```text
+agents/
+utils/
+outputs/
+sample_data/
+app.py
+README.md
+requirements.txt
+```
+
+---
+
+## Future Improvements
+
+- LLM Integration
+- Semantic Embeddings
+- OCR Resume Parsing
+- Database Integration
+- Cloud Authentication
+- Advanced NLP Matching
+
+---
+
+## Author
+
+Harsh Vardhan  
+ECE Undergraduate
