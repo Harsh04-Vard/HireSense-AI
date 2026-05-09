@@ -2,9 +2,19 @@
 
 AI-Powered Resume Shortlisting and Candidate Ranking System
 
+---
+
+## Project Links
+
+- 🌐 Live Demo: https://hiresense-ai-p25h.onrender.com
+- 💻 GitHub Repository: https://github.com/Harsh04-Vard/HireSense-AI
+
+---
+
 ## Overview
 
 HireSense AI is an intelligent HR automation platform that:
+
 - extracts resume information
 - parses job descriptions
 - evaluates candidates
